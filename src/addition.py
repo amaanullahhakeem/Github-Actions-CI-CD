@@ -1,5 +1,5 @@
 # app.py
-# This is to check: Github action is working
+# This is to check: Github action is working.
 def add(a, b):
     return a + b
 
